@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💫 About Me:
-👋 Hi there, I’m Harini!
+ I’m Harini!
 
 🎓 CSE (AI) student passionate about AI/ML, problem-solving, and building practical tech solutions.
 🔭 I’m currently working on<br>AI/ML projects, DSA practice, and a full-stack learning platform for electronics students.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects in AI/ML, Java, or full-stack web development.<br><br>🤝 I’m looking for help with<br>Improving problem-solving skills, project scalability, and clean system design.<br><br>🌱 I’m currently learning<br>Advanced DSA, machine learning concepts, and real-world backend integrations.<br><br>💬 Ask me about<br>Python, Java, AI/ML basics, Salesforce flows, and student project building.<br><br>⚡ Fun fact<br>I enjoy turning confusing concepts into simple explanations—and I’m consistent with daily practice 💪
