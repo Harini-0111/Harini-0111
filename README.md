@@ -1,4 +1,4 @@
-![banner](./hero1.svg)
+![banner](./hero.svg)
 ## Harini Patsa
 
 CSE (AI) student · Full-Stack Developer · AI/ML Enthusiast
